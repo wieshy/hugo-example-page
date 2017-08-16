@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://nodejh.com/"
+baseurl = "https://wieshy.github.io/hugo-example-page/"
 # HTML Language Code Reference, such as en, zh-cn
 publishDir = "docs"
 languageCode = "en"
