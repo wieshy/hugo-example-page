@@ -3,61 +3,61 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://nodejh.com/post/creating-a-new-theme/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nodejh.com/post/second/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/post/second/</loc>
     <lastmod>2017-08-16T22:23:15+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nodejh.com/post/first/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/post/first/</loc>
     <lastmod>2017-08-16T22:17:59+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nodejh.com/about/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/about/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nodejh.com/tags/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/tags/</loc>
     <lastmod>2015-06-20T14:02:37+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://nodejh.com/categories/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nodejh.com/tags/computers/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/tags/computers/</loc>
     <lastmod>2017-08-16T22:23:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nodejh.com/categories/how-to/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/categories/how-to/</loc>
     <lastmod>2017-08-16T22:23:15+02:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nodejh.com/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nodejh.com/post/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/post/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://nodejh.com/tags/programming/</loc>
+    <loc>https://wieshy.github.io/hugo-example-page/tags/programming/</loc>
     <lastmod>2017-08-16T22:23:15+02:00</lastmod>
     <priority>0</priority>
   </url>
