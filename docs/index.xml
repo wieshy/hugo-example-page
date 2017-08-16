@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Example Hugo WebSite</title>
+    <link>http://nodejh.com/</link>
+    <description>Recent content on My Example Hugo WebSite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 28 Sep 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://nodejh.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Creating a New Theme</title>
+      <link>http://nodejh.com/post/creating-a-new-theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://nodejh.com/post/creating-a-new-theme/</guid>
+      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
+We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+    </item>
+    
+    <item>
+      <title>Second</title>
+      <link>http://nodejh.com/post/second/</link>
+      <pubDate>Wed, 16 Aug 2017 22:23:15 +0200</pubDate>
+      
+      <guid>http://nodejh.com/post/second/</guid>
+      <description>Header Lorem Ipsum</description>
+    </item>
+    
+    <item>
+      <title>First</title>
+      <link>http://nodejh.com/post/first/</link>
+      <pubDate>Wed, 16 Aug 2017 22:17:59 +0200</pubDate>
+      
+      <guid>http://nodejh.com/post/first/</guid>
+      <description>Hello Welcome to my new blog&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
